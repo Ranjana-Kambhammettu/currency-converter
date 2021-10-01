@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/currency-converter/static/css/main.1fcd912b.chunk.css",
-    "main.js": "/currency-converter/static/js/main.32a71a1f.chunk.js",
-    "main.js.map": "/currency-converter/static/js/main.32a71a1f.chunk.js.map",
+    "main.js": "/currency-converter/static/js/main.0e6e4b16.chunk.js",
+    "main.js.map": "/currency-converter/static/js/main.0e6e4b16.chunk.js.map",
     "runtime-main.js": "/currency-converter/static/js/runtime-main.1d696ecc.js",
     "runtime-main.js.map": "/currency-converter/static/js/runtime-main.1d696ecc.js.map",
     "static/js/2.8ac91171.chunk.js": "/currency-converter/static/js/2.8ac91171.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "/currency-converter/index.html",
     "static/css/main.1fcd912b.chunk.css.map": "/currency-converter/static/css/main.1fcd912b.chunk.css.map",
     "static/js/2.8ac91171.chunk.js.LICENSE.txt": "/currency-converter/static/js/2.8ac91171.chunk.js.LICENSE.txt",
-    "static/media/haktober.c4789055.png": "/currency-converter/static/media/haktober.c4789055.png"
+    "static/media/haktober.2548a4fb.png": "/currency-converter/static/media/haktober.2548a4fb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1d696ecc.js",
     "static/js/2.8ac91171.chunk.js",
     "static/css/main.1fcd912b.chunk.css",
-    "static/js/main.32a71a1f.chunk.js"
+    "static/js/main.0e6e4b16.chunk.js"
   ]
 }
