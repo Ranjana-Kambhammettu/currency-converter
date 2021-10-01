@@ -42,3 +42,8 @@ footer {
 .right {
     padding-right: 15px;
 }
+
+.pic {
+    height: 100px;
+    width: 100px; 
+}
