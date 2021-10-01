@@ -16,7 +16,7 @@ class Heading extends React.Component {
                 <footer>
                     <div class="left">
                         Hacktoberfest 2021
-                        <img src={Haktober} alt="Haktoberfest Logo" />
+                        <img class="pic"src={Haktober} alt="Haktoberfest Logo" />
                     </div>
 
                     <div class="right">
