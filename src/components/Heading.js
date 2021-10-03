@@ -5,7 +5,7 @@ class Heading extends React.Component {
     render() {
         return(
             <>
-                <header class="title">
+                <header className="title">
                     <h1>Currency Converter</h1>
                 </header>
                 <div class="byline">
