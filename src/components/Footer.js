@@ -8,7 +8,7 @@ class Footer extends React.Component {
             <>
             <footer>
                 <div class="left">
-                     Hacktoberfest 2021
+                     <span id="hackFooter">Hacktoberfest 2021</span>
                     <a href="https://hacktoberfest.digitalocean.com" target="_blank" rel="noopener noreferrer">
                     <img class="pic"src={Haktober} alt="Haktoberfest Logo" />
                     </a>
