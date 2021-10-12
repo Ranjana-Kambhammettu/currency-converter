@@ -1,5 +1,6 @@
 body {
     background-color: #90EE90;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .title {
@@ -48,4 +49,9 @@ footer {
 .pic {
     height: 50px;
     width: 50px; 
+}
+
+#hackFooter{
+    position: relative;
+    top: 19%;
 }
