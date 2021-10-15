@@ -1,23 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 body {
-    background-color: #90EE90;
+    background-color: #46b646;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .title {
     text-align: center;
-    color: #000;
-    text-shadow: 2px 2px 6px #FFA500;
+    color: rgb(32, 27, 27);
+    text-shadow: 2px 2px 4px #FFA500;
     text-decoration: underline;
     font-style: italic;
-    font-family: Helvetica, sans-serif;
-    padding-top: 20px;
+    font-family: "Pacifico", cursive;
+    padding-top: 25px;
+    font-size: 35px;
 }
 
 .byline {
     text-align: center;
     font-size: 16px;
     font-family: cursive;
-    margin-top: -10px;
+    margin-top: 15px;
 }
 
 footer {
@@ -48,10 +50,10 @@ footer {
 
 .pic {
     height: 50px;
-    width: 50px; 
+    width: 50px;
 }
 
-#hackFooter{
+#hackFooter {
     position: relative;
     top: 19%;
 }
