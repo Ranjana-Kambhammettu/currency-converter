@@ -4,6 +4,10 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.top {
+    height: 25vh;
+}
+
 .title {
     text-align: center;
     color: rgb(32, 27, 27);
@@ -12,14 +16,14 @@ body {
     font-style: italic;
     font-family: "Pacifico", cursive;
     padding-top: 25px;
-    font-size: 35px;
+    font-size: 100px;
 }
 
 .byline {
     text-align: center;
-    font-size: 16px;
+    font-size: 32px;
     font-family: cursive;
-    margin-top: 15px;
+    margin-top: 40px;
 }
 
 footer {
@@ -30,10 +34,12 @@ footer {
     left: 0;
     right: 0;
     font-family: cursive;
+    font-size: 40px;
     padding: 20px 0;
     height: fit-content;
     color: #fff;
     justify-content: space-between;
+    height: 5vh;
 }
 
 .left {
@@ -48,12 +54,21 @@ footer {
     padding-right: 15px;
 }
 
+img {
+    width: 160px;
+    margin: auto;
+    margin-left: auto;
+}
+
 .pic {
     height: 50px;
     width: 50px;
+    margin-right: auto;
 }
 
 #hackFooter {
-    position: relative;
-    top: 19%;
+    margin: auto;
+    margin-right: 10px;
+    font-size: 25px;
+    color: #fba;
 }
