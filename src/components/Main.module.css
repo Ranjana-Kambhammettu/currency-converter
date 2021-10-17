@@ -1,4 +1,54 @@
 .form {
-    margin-top: 15px;
+    margin-top: 50px;
     margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 50vh;
+    gap: 30px;
+}
+
+.input {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.label {
+    color: #444;
+    font-family: Arial, serif;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.input_amt {
+    width: 500px;
+    height: 46px;
+    border-radius: 18px;
+    outline: none;
+    border: none;
+    padding: 0 15px;
+    font-size: 25px;
+}
+
+.dropdown {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: 40px;
+    color: #555;
+    font-family: Arial, serif;
+}
+
+.text {
+    position: relative;
+    top: 10%;
+    color: #000;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
 }
